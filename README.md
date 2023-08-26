@@ -72,4 +72,5 @@ It uses the TensorFlow and Keras libraries for building and training the CNN mod
 
 8.Provided images are displayed, and predicted statuses are printed.
 
-# Note: Please replace '/content/test.jpg' and '/content/test5.jpg' with actual paths to your test images for accurate results.
+# Note:
+Please replace '/content/test.jpg' and '/content/test5.jpg' with actual paths to your test images for accurate results.
