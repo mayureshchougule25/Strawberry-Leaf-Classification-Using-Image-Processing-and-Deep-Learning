@@ -54,7 +54,7 @@ It uses the TensorFlow and Keras libraries for building and training the CNN mod
 
 4.The predicted status is printed for each image.
 
-# Summary in Bullet Points:
+# Summary :
 
 1.Project focuses on predicting leaf status using a CNN model.
 
